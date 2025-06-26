@@ -7,7 +7,7 @@ This is a React project built using **Vite**, designed as part of an assignment.
 ## 📺 Video Explanation
 
 🎥 Watch the full explanation of this project:  
-👉 [Click here to watch on YouTube](https://your-video-link-here.com)
+👉 [Click here to watch ]https://drive.google.com/file/d/1ZsBmaLEvrA8sQxYFtgac7_REDoxHa7Va/view?usp=sharing
 
 > *(Replace the above link with your actual YouTube or Google Drive link)*
 
