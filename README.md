@@ -1,3 +1,6 @@
+<h1>Image</h1>
+<img src="https://github.com/SwapnilpatilTech/JAVASCRIPT_FINAL-EXAM/blob/cad04125aa3cdceeb02dd4d1e7baa25dbc195180/COVID-19/Asset/Screenshot%202025-04-22%20112042.png"width=100%>
+
 # 🚀 React + Vite Project
 
 This is a React project built using **Vite**, designed as part of an assignment. It provides a modern, fast, and minimal development setup with features like hot module replacement, ESLint integration, and Bootstrap styling.
