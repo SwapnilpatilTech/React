@@ -1,5 +1,5 @@
 <h1>Image</h1>
-<img src="https://github.com/SwapnilpatilTech/JAVASCRIPT_FINAL-EXAM/blob/cad04125aa3cdceeb02dd4d1e7baa25dbc195180/COVID-19/Asset/Screenshot%202025-04-22%20112042.png"width=100%>
+<img src="https://github.com/SwapnilpatilTech/React/blob/cfaa50cee26a7dda3693db18c53ecfd5922ddf63/src/assets/Screenshot%202025-06-26%20192718.png"width=100%>
 
 # 🚀 React + Vite Project
 
