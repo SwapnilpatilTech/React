@@ -3,7 +3,6 @@
 
 # 🚀 React + Vite Project
 
-This is a React project built using **Vite**, designed as part of an assignment. It provides a modern, fast, and minimal development setup with features like hot module replacement, ESLint integration, and Bootstrap styling.
 
 ---
 
