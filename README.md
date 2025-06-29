@@ -2,6 +2,7 @@
 <img src="https://github.com/SwapnilpatilTech/React/blob/cfaa50cee26a7dda3693db18c53ecfd5922ddf63/src/assets/Screenshot%202025-06-26%20192718.png"width=100%>
 
 # 🚀 React + Vite Project
+This is a React project built using **Vite**, designed as part of an assignment. It provides a modern, fast, and minimal development setup with features like hot module replacement, ESLint integration, and Bootstrap styling.
 
 
 
